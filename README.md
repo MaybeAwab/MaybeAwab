@@ -1,11 +1,7 @@
 <h1 align="center">Awab</h1>
 
 <p align="center">
-  <strong>Python & Go Developer · Backend & Automation</strong>
-</p>
-
-<p align="center">
-  I build practical tools, APIs, and backend systems that make repetitive work simpler.
+  Python & Go developer building backend systems, automation tools, and APIs.
 </p>
 
 <p align="center">
@@ -15,68 +11,48 @@
 
 ---
 
-## Focus
+## What I Build
 
-- Backend development with **Python** and **Go**
-- REST APIs, databases, and integrations
-- Automation tools and Telegram bots
-- Clean, practical software built around real use cases
+Backend-focused software for working with data, APIs, and external services.
 
-## Tech Stack
+- REST APIs and backend applications
+- Automation tools for repetitive workflows
+- Telegram bots and service integrations
+- Database-backed applications
+- Data collection and processing tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,go,js,html,css,postgres,mongodb,git,github,linux" alt="Python, Go, JavaScript, HTML, CSS, PostgreSQL, MongoDB, Git, GitHub and Linux" />
-</p>
-
-`REST APIs` · `SQLite` · `PostgreSQL` · `MongoDB` · `Telegram Bots` · `Web Scraping` · `JSON`
-
-## Selected Projects
+## Selected Work
 
 ### Bahrain Used Electronics Flip Finder
 
-A tool for analyzing public used-electronics listings and finding potential resale opportunities.
+A data-driven tool for analyzing used-electronics listings and identifying potential resale opportunities.
 
 - Collects and organizes listing data
-- Compares prices, products, and conditions
+- Compares products, prices, and conditions
 - Estimates costs and potential profit
-- Stores results in SQLite
-- Sends selected opportunities through Telegram
+- Stores processed results in SQLite
+- Delivers selected results through Telegram
 
-**Stack:** `Python` `SQLite` `Automation` `Telegram` `Data Processing`
+`Python` `SQLite` `Automation` `Telegram`
 
 ### Go Web Application
 
-A backend-focused web application built with Go.
+A backend web application built with Go, focused on authentication, sessions, routing, validation, and database operations.
 
-- Authentication and sessions
-- PostgreSQL database operations
-- Form handling and validation
-- HTTP routing and handlers
+`Go` `PostgreSQL` `HTTP` `Backend`
 
-**Stack:** `Go` `PostgreSQL` `Backend Development`
+### Telegram Bot Projects
 
-### Automation Projects
+Backend tools that connect Telegram with databases, APIs, and automated workflows.
 
-Small tools that connect APIs and external services to reduce repetitive work and turn manual processes into reliable workflows.
+`Go` `MongoDB` `Telegram API`
 
-```text
-Input → Processing → Storage → Action
-```
+## Tools
 
-## Currently Improving
-
-- Backend architecture
-- API design and integrations
-- Database design
-- Testing and maintainable code
-- Production-ready development practices
-
-## Open To
-
-Internships · Junior Backend Roles · Automation Projects
+`Python` `Go` `PostgreSQL` `MongoDB` `SQLite` `REST APIs` `Git` `Linux`
 
 ---
 
 <p align="center">
-  <i>Building useful software, one project at a time.</i>
+  <i>Focused on building software that is useful, reliable, and easy to maintain.</i>
 </p>
