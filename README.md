@@ -1,82 +1,82 @@
-<h1 align="center">Hi, I'm Awab</h1>
+<h1 align="center">Awab</h1>
 
 <p align="center">
-  <strong>Python & Go Developer | Automation, Bots & AI Integrations</strong>
+  <strong>Python & Go Developer · Backend & Automation</strong>
 </p>
 
 <p align="center">
-  I build practical backend tools that connect APIs, automation workflows, and AI to solve real problems.
+  I build practical tools, APIs, and backend systems that make repetitive work simpler.
 </p>
 
 <p align="center">
   <a href="mailto:awabqahtano@gmail.com">Email</a> ·
-  <a href="https://github.com/T3Bawab">GitHub</a>
+  <a href="https://github.com/MaybeAwab">GitHub</a>
 </p>
 
 ---
 
-## About Me
+## Focus
 
-- Based in Bahrain
-- First-year computer science student building real-world software
-- Focused on **Python, Go, backend development, APIs, automation, and AI integrations**
-- Interested in internships, junior roles, and practical technical projects
-- Currently exploring AI agents, workflow automation, and SaaS products
+- Backend development with **Python** and **Go**
+- REST APIs, databases, and integrations
+- Automation tools and Telegram bots
+- Clean, practical software built around real use cases
 
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,js,html,css,postgres,mongodb,git,github,linux" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,go,js,html,css,postgres,mongodb,git,github,linux" alt="Python, Go, JavaScript, HTML, CSS, PostgreSQL, MongoDB, Git, GitHub and Linux" />
 </p>
 
-**Core areas:** REST APIs · Telegram Bots · AI / LLM APIs · Web Scraping · SQLite · PostgreSQL · MongoDB · JSON · Backend Logic
+`REST APIs` · `SQLite` · `PostgreSQL` · `MongoDB` · `Telegram Bots` · `Web Scraping` · `JSON`
 
-## Selected Work
+## Selected Projects
 
 ### Bahrain Used Electronics Flip Finder
 
-An automation system that analyzes public used-electronics listings in Bahrain and identifies potential resale opportunities.
+A tool for analyzing public used-electronics listings and finding potential resale opportunities.
 
-- Collects and processes listing data
-- Compares similar products, prices, and conditions
-- Estimates potential cost and profit
-- Uses AI for structured analysis and risk evaluation
-- Validates AI-generated JSON before using it
-- Stores analyzed listings in SQLite
+- Collects and organizes listing data
+- Compares prices, products, and conditions
+- Estimates costs and potential profit
+- Stores results in SQLite
 - Sends selected opportunities through Telegram
 
-**Stack:** `Python` `SQLite` `AI APIs` `Automation` `Telegram` `Data Processing`
+**Stack:** `Python` `SQLite` `Automation` `Telegram` `Data Processing`
 
 ### Go Web Application
 
-A backend-focused web application built with Go, featuring authentication, sessions, PostgreSQL integration, form validation, routing, handlers, and database operations.
+A backend-focused web application built with Go.
+
+- Authentication and sessions
+- PostgreSQL database operations
+- Form handling and validation
+- HTTP routing and handlers
 
 **Stack:** `Go` `PostgreSQL` `Backend Development`
 
-### AI & Automation Projects
+### Automation Projects
 
-I build small systems that connect external services, APIs, and AI models into useful workflows:
+Small tools that connect APIs and external services to reduce repetitive work and turn manual processes into reliable workflows.
 
 ```text
-API / Data → Processing → AI Analysis → Validation → Database → Action
+Input → Processing → Storage → Action
 ```
 
-My goal is to make AI part of the application logic—not just a chatbot interface.
+## Currently Improving
 
-## Currently Learning
-
-- AI agents and LLM application architecture
-- Backend systems and API design
-- Workflow automation
-- SaaS and internal tools
-- Production-ready software practices
+- Backend architecture
+- API design and integrations
+- Database design
+- Testing and maintainable code
+- Production-ready development practices
 
 ## Open To
 
-Internships · Junior Backend Roles · Automation Projects · AI Integration Projects
+Internships · Junior Backend Roles · Automation Projects
 
 ---
 
 <p align="center">
-  <i>Always building something useful.</i>
+  <i>Building useful software, one project at a time.</i>
 </p>
