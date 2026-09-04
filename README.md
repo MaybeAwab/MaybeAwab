@@ -19,7 +19,7 @@
 
 ## About
 
-I build backend applications, automation tools, and API integrations with a focus on practical solutions and maintainable code.
+I'm Awab. I mostly work with Python and Go, building backend tools, scrapers, bots and API integrations. I like projects that solve a problem I actually have.
 
 ## Tech Stack
 
@@ -42,19 +42,19 @@ I build backend applications, automation tools, and API integrations with a focu
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/MaybeAwab/bahrain-flip-finder">Bahrain Flip Finder</a></h3>
-      <p>A Python tool that evaluates used-electronics listings in Bahrain. It collects public listings, compares similar products, calculates resale profit and ROI, and sends matching opportunities to Telegram.</p>
+      <p>I made this to find used electronics in Bahrain that might be worth reselling. It pulls public listings from OpenSooq and Dubizzle, compares prices for the same model, works out the costs and possible profit, and sends the good finds to Telegram.</p>
       <p><code>Python</code> <code>SQLite</code> <code>Web Scraping</code> <code>Telegram</code> <code>AI APIs</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MaybeAwab/Go-lang-web-app">Go Web Application</a></h3>
-      <p>Backend web application built with Go, featuring authentication, sessions, routing, validation, and PostgreSQL database operations.</p>
+      <p>A Go web app I built to get deeper into server-side development. It has login and logout, sessions, CSRF protection, form validation, templates and PostgreSQL.</p>
       <p><code>Go</code> <code>PostgreSQL</code> <code>HTTP</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/MaybeAwab/Telegrame_bot_mongodb">Telegram Bot</a></h3>
-      <p>A Go bot connecting Telegram with MongoDB to manage user records and automate command-based workflows.</p>
+      <p>A small Telegram bot written in Go with MongoDB behind it. It handles basic user creation and deletion through bot commands.</p>
       <p><code>Go</code> <code>MongoDB</code> <code>Telegram API</code></p>
     </td>
   </tr>
@@ -73,6 +73,6 @@ I build backend applications, automation tools, and API integrations with a focu
 
 ---
 
-<sub>Building practical software with Python and Go.</sub>
+<sub>I build tools I would actually use.</sub>
 
 </div>
