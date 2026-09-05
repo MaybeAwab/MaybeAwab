@@ -2,9 +2,9 @@
 
 # Awab
 
-### Information Technology Student
+### Python & Go Developer
 
-**Python & Go Developer · Backend APIs · Automation · AI Integrations**
+**Backend · APIs · Automation**
 
 <p>
   <a href="mailto:awabqahtano@gmail.com">
@@ -17,28 +17,23 @@
 
 </div>
 
-## About Me
+## About
 
-I'm an Information Technology student at Arab Open University in Bahrain. I build practical backend and automation tools with Python and Go, focusing on APIs, structured data, databases, bots, and applied AI integrations.
-
-I enjoy taking a real workflow—from collecting data to making a decision—and turning it into reliable software with validation, clear business rules, and useful outputs.
-
-I'm currently open to internship, junior, part-time, and project opportunities in backend development, Python automation, API integration, and applied AI in Bahrain or remotely.
+I'm Awab. I mostly work with Python and Go, building backend tools, scrapers, bots and API integrations. I like projects that solve a problem I actually have.
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,postgres,mongodb,sqlite,html,css,git,linux" alt="Python, Go, PostgreSQL, MongoDB, SQLite, HTML, CSS, Git and Linux" />
+  <img src="https://skillicons.dev/icons?i=python,go,postgres,mongodb,sqlite,js,html,css,git,linux" alt="Python, Go, PostgreSQL, MongoDB, SQLite, JavaScript, HTML, CSS, Git and Linux" />
 </div>
 
 <br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/REST_APIs-2f81f7?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/Backend_Development-238636?style=flat-square" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/Telegram_Bots-26a5e4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bots" />
   <img src="https://img.shields.io/badge/Automation-8250df?style=flat-square" alt="Automation" />
-  <img src="https://img.shields.io/badge/AI_Integrations-d97706?style=flat-square" alt="AI Integrations" />
-  <img src="https://img.shields.io/badge/Web_Scraping-0969da?style=flat-square" alt="Web Scraping" />
+  <img src="https://img.shields.io/badge/Data_Processing-f0883e?style=flat-square" alt="Data Processing" />
 </div>
 
 ## Featured Projects
@@ -47,15 +42,20 @@ I'm currently open to internship, junior, part-time, and project opportunities i
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/MaybeAwab/bahrain-flip-finder">Bahrain Flip Finder</a></h3>
-      <p>A Python tool that collects public used-electronics listings in Bahrain, normalizes and deduplicates data, compares similar prices, calculates total cost, profit and ROI, and stores processing state in SQLite. Optional AI review validates product details and risks before selected opportunities are sent to Telegram.</p>
-      <p><code>Python</code> <code>SQLite</code> <code>Web Scraping</code> <code>REST APIs</code> <code>AI APIs</code> <code>Telegram</code> <code>Testing</code></p>
+      <p>I made this to find used electronics in Bahrain that might be worth reselling. It pulls public listings from OpenSooq and Dubizzle, compares prices for the same model, works out the costs and possible profit, and sends the good finds to Telegram.</p>
+      <p><code>Python</code> <code>SQLite</code> <code>Web Scraping</code> <code>Telegram</code> <code>AI APIs</code></p>
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/MaybeAwab/Go-lang-web-app">Go Web Application</a></h3>
-      <p>A server-side Go application with authentication, sessions, CSRF protection, form validation, HTML templates, HTTP handlers, and PostgreSQL.</p>
-      <p><code>Go</code> <code>PostgreSQL</code> <code>HTTP</code> <code>Web Security</code></p>
+      <p>A Go web app I built to get deeper into server-side development. It has login and logout, sessions, CSRF protection, form validation, templates and PostgreSQL.</p>
+      <p><code>Go</code> <code>PostgreSQL</code> <code>HTTP</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/MaybeAwab/Telegrame_bot_mongodb">Telegram Bot</a></h3>
+      <p>A small Telegram bot written in Go with MongoDB behind it. It handles basic user creation and deletion through bot commands.</p>
+      <p><code>Go</code> <code>MongoDB</code> <code>Telegram API</code></p>
     </td>
   </tr>
 </table>
@@ -65,14 +65,14 @@ I'm currently open to internship, junior, part-time, and project opportunities i
 | Area | Tools |
 | --- | --- |
 | Backend | Python, Go, REST APIs, HTTP |
-| Data | PostgreSQL, MongoDB, SQLite, SQL, JSON |
-| Automation | Telegram Bots, Web Scraping, Service Integrations |
-| Engineering | Git, Linux, Validation, Error Handling, Testing |
+| Data | PostgreSQL, MongoDB, SQLite, JSON |
+| Automation | Telegram Bots, Web Scraping, Integrations |
+| Workflow | Git, Linux, Validation, Structured Data |
 
 <div align="center">
 
 ---
 
-<sub>Building practical software from real problems.</sub>
+<sub>I build tools I would actually use.</sub>
 
 </div>
